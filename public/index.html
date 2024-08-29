@@ -21,8 +21,9 @@
             </ul>
         </nav>
         <!-- Connect Wallet Button -->
-        <button id="connect-wallet">Connect Wallet</button>
-        <button id="withdraw-wallet">Withdraw Wallet</button>
+
+    <button id="connect-wallet" onclick="connectWallet()">Connect Wallet</button>
+        <a id="withdraw-wallet" href="balance.html">Withdraw Wallet</a>
     </header>
 
     <!-- Main Content -->
@@ -86,8 +87,10 @@
     <!-- Footer -->
     <footer>
         <p>&copy; 2024 Food Tour. All rights reserved.</p>
-        <script src="scripts.js"></script>
-
+        
     </footer>
 </body>
+<script src="https://unpkg.com/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+<script src="scripts.js"></script>
+
 </html>

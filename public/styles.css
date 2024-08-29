@@ -661,7 +661,7 @@ main {
 
 /* Button Styling */
 #connect-wallet {
-    background-color: #000dff; /* Vibrant yellow */
+    background-color: #313242; /* Vibrant yellow */
     color: #d7d7d7;
     border: none;
     border-radius: 5px;
@@ -676,13 +676,13 @@ main {
 }
 
 #connect-wallet:hover {
-    background-color: #3941e0; /* Slightly darker yellow */
+    background-color: #313242; /* Slightly darker yellow */
     color: #ded4d4;
 }
 
 /* Style for the Withdraw Wallet button */
 #withdraw-wallet {
-    background-color: #0c26ec; /* Blue background */
+    background-color: #313242; /* Blue background */
     color: #fff; /* White text */
     border: none;
     border-radius: 5px;
@@ -693,6 +693,7 @@ main {
     position: absolute; /* Position it absolutely */
     top: 60px; /* Adjust based on the height of the Connect Wallet button and desired spacing */
     right: 20px; /* Aligns the button to the right */
+    text-decoration: none;
 }
 
 #withdraw-wallet:hover {

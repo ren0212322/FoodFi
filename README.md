@@ -1,30 +1,26 @@
-# Setup the project using 
+# Setup the project using
 
-yarn install 
+yarn install
 npm install
 
 Add this token as manually into your wallet SDU
 
-Contract Address = 0x400790014D6a80e432F0a2fAabfBa7152A539636
+Contract Address = 0x5CCD6fB20fa72584B055Cec288DFf9218284dfbf
 
-------------
+---
 
-# About Project SeedEDU (Build on Opencampus Chain)
+# About Project FoodFi (Build on Opencampus Chain)
 
-- Revolutionary Platform: Seed EDU is designed to empower promising students by providing decentralized, crypto-based funding for their educational journeys.
+- FoodFi: Transforming Culinary Experiences into Digital Assets
 
-- Blockchain-Powered: Built on the secure and transparent Edu Chain, Seed EDU leverages blockchain technology to ensure transparency, security, and accessibility.
+- Revolutionary Platform:
+  FoodFi is a cutting-edge Web3 platform that allows users to earn tokens by sharing food reviews. By turning your culinary insights into valuable digital assets, FoodFi empowers food enthusiasts to connect, share, and discover new cuisines in a transparent and rewarding ecosystem.
 
-- Direct Contributions: Donors can contribute directly to students using cryptocurrency, bypassing traditional financial barriers and middlemen.
+- Blockchain-Powered:
+  Built on the secure and transparent EduChain by OpenCampus, FoodFi leverages blockchain technology to ensure fairness and authenticity. Every review is immutable, ensuring trust within the community.
 
-- Smart Contracts: Funds are managed by smart contracts, which release them based on predefined academic milestones, ensuring that students are rewarded for their achievements.
+- Rewarding Contributions:
+  Users are rewarded with tokens for their culinary insights, providing tangible value for sharing their favorite dishes, hidden gems, and new food experiences. FoodFi turns your passion for food into digital assets that you can use within the platform or trade.
 
-- Community Engagement: Seed EDU fosters a vibrant community where:
-
-- Students can showcase their achievements and set educational goals.
-
-- Donors can track the impact of their contributions in real-time.
-
-- Global Reach: The platform is designed to be accessible to students worldwide, making academic excellence achievable without financial constraints.
-
-
+- Smart Contracts:
+  All transactions and rewards are managed by smart contracts, ensuring that contributions are fairly rewarded and that the community thrives in a trustless environment.
